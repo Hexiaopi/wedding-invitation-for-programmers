@@ -1,8 +1,7 @@
 export default {
   code:
     `
-// 故事还要从2018年的十一说起
-// 刚见到她的那一刻，我就心动啦
+// 这是我们俩的故事
 const { 😆, 🤗 } = 🌎;
 😆.say('你好，我叫何长杰!');
 🤗.response('你好，我叫李苗苗');
@@ -10,34 +9,34 @@ Utils.marry(😆,🤗);
 Utils.generateInvitation(😆,🤗);
 // 于是有了接下来的故事`,
   executions: [{
-    name: '刚开始',
-    time: '',
-    duration: 0,
+    name: '这是刚开始的时候',
+    time: '2018',
+    duration: 5000,
+    img: 'http://cdn.cjhe.top/photo%2FWechatIMG18966.jpeg',
     visible: false
   }, {
-    name: '简单的约会',
-    time: '',
-    duration: 0,
+    name: '这是出去约会的时候',
+    time: '2019',
+    duration: 5000,
+    img: 'http://cdn.cjhe.top/photo%2FWechatIMG18967.jpeg',
     visible: false
   }, {
-    name: '疯狂的热恋',
-    time: '',
-    duration: 0,
+    name: '这是情人节的时候',
+    time: '2020',
+    duration: 5000,
+    img: 'http://cdn.cjhe.top/photo%2FWechatIMG18968.jpeg',
     visible: false
   }, {
-    name: '岁月的静好',
-    time: '',
-    duration: 0,
+    name: '这是在家煮火锅的时候',
+    time: '2021',
+    duration: 5000,
+    img: 'http://cdn.cjhe.top/photo%2FWechatIMG18969.jpeg',
     visible: false
   }, {
-    name: '准备结婚啦🙂',
-    time: '',
-    duration: 0,
-    visible: false
-  }, {
-    name: '终于结婚啦😄',
-    time: '',
-    duration: 0,
+    name: '这是出去锻炼身体的时候',
+    time: '2022',
+    duration: 5000,
+    img: 'http://cdn.cjhe.top/photo%2FWechatIMG337.jpeg',
     visible: false
   }],
   barrages: [
