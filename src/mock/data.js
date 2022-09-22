@@ -1,12 +1,10 @@
 export default {
   code:
     `
-// 这是我们俩的故事
+// 这是我们俩的故事^o^
 const { 😆, 🤗 } = 🌎;
 😆.say('你好，我叫何长杰!');
 🤗.response('你好，我叫李苗苗');
-Utils.marry(😆,🤗);
-Utils.generateInvitation(😆,🤗);
 // 于是有了接下来的故事`,
   executions: [{
     name: '这是刚开始的时候',
@@ -24,7 +22,7 @@ Utils.generateInvitation(😆,🤗);
     name: '这是情人节的时候',
     time: '2020',
     duration: 5000,
-    img: 'http://cdn.cjhe.top/photo%2FWechatIMG18968.jpeg',
+    img: 'http://cdn.cjhe.top/photo/WechatIMG338.jpeg',
     visible: false
   }, {
     name: '这是在家煮火锅的时候',
